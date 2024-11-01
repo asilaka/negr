@@ -38,8 +38,9 @@ aspect-ratio: 1;
         }
 
         &:hover{
-            backdrop-filter: blur(20px);
+            backdrop-filter: blur(8px);
             opacity: 1;
+            transition: .3s ease;
         }
     }
   background-image: url(https://framerusercontent.com/images/QVKFKT3dyGxloXfzzpurVKNMM6M.jpg?scale-down-to=1024);

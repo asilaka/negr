@@ -1,0 +1,39 @@
+.main__title{
+    margin-top: 100px;
+    margin-bottom: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h1{
+        text-align: center;
+        color: #101010;
+    }
+}
+span{
+    cursor: pointer;
+    color: #7f7f7f;
+}
+
+.Wrapper_work{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.end{
+    display: flex;
+    gap: 10px;
+}
+
+
+.mail{
+    display: flex;
+    gap: 10px;
+   
+   a{
+    text-decoration: none;
+   color: black;
+   }
+    }
